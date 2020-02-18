@@ -1,6 +1,8 @@
 # Graph Convolution on Structured Documents
 This repo contains code to convert Structured Documents to Graphs and implement a Graph Convolution Neural Network (incomplete) for Node Classification, each node being an entity in the document.
 
+Check out the article for an intuitive explanation on Towards Data Science: [Using Graph Convolutional Neural Networks on Structured Documents for Information Extraction](https://towardsdatascience.com/using-graph-convolutional-neural-networks-on-structured-documents-for-information-extraction-c1088dcd2b8f) 
+
 ## Code
 The `grapher.py` file contains the code to convert a structured document to a graph. <br>
 An object map made using a Commercial OCR Tool is needed as the input which provides the bounding-box coordinates of each entity in the image along with it's recognized text. The script can then be used to generate an `object_tree.png` file and a 
