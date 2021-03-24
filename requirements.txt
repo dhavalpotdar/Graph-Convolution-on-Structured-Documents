@@ -174,7 +174,7 @@ Random-Word==1.0.4
 regex==2020.2.20
 requests==2.22.0
 rope==0.14.0
-rsa==4.0
+rsa==4.1
 ruamel-yaml==0.15.46
 scikit-image==0.15.0
 scikit-learn==0.21.3
