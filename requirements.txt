@@ -39,7 +39,7 @@ cryptography==2.7
 cycler==0.10.0
 Cython==0.29.13
 cytoolz==0.10.0
-dask==2.5.2
+dask==2021.10.0
 datefinder==0.7.0
 decorator==4.4.0
 defusedxml==0.6.0
