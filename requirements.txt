@@ -43,7 +43,7 @@ dask==2.5.2
 datefinder==0.7.0
 decorator==4.4.0
 defusedxml==0.6.0
-distributed==2.5.2
+distributed==2021.10.0
 docutils==0.15.2
 entrypoints==0.3
 et-xmlfile==1.0.1
